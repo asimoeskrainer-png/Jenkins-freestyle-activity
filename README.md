@@ -1,0 +1,2 @@
+This project demonstrates a foundational Continuous Integration (CI) pipeline using Jenkins. It automates the lifecycle of a simple Python-based application that generates randomized motivational quotes.
+The primary goal of this activity is to showcase Workflow Automation. Instead of a developer manually running a script and saving results, the Jenkins pipeline handles the entire process—from pulling the latest code changes to preserving the generated output as a permanent record.
